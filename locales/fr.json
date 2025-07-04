@@ -3,13 +3,13 @@
     "placeholder2": "Chercher un ailier..."
   },
   "radar": {
-    "a": "Passes Clés",
-    "b": "Passes D",
-    "c": "xG+xA",
-    "d": "Buts",
-    "e": "Dribbles",
-    "f": "Courses",
-    "g": "Actions Off"
+    "keyPasses": "Passes clés",
+    "assists": "Passes D",
+    "xgxa": "npxG+xA",
+    "npg": "Buts HP",
+    "dribbles": "Dribbles",
+    "carries": "Courses",
+    "cross": "Centres"
   },
   "similar": {
     "to": "Données similaires à"
