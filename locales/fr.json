@@ -1,0 +1,30 @@
+{
+  "search": {
+    "placeholder2": "Chercher un ailier..."
+  },
+  "radar": {
+    "keyPasses": "Passes clés",
+    "assists": "Passes D",
+    "xgxa": "npxG+xA",
+    "npg": "Buts HP",
+    "dribbles": "Dribbles",
+    "carries": "Courses",
+    "cross": "Centres"
+  },
+  "similar": {
+    "to": "Données similaires à"
+  },
+  "header": {
+    "percentiles": "Centiles",
+    "clickforinfo": "Cliquez sur un en-tête pour voir le nom complet de la métrique",
+    "percentilesvstop7leagues": "Centiles parmi 7 grands championnats",
+    "progressivecarries": "Courses progressives",
+    "dribblescompleted": "Dribbles réussis",
+    "nonpenaltygoals": "Buts sans penalty",
+    "expectedgoalsassists": "Buts attendus + passes décisives",
+    "assists": "Passes décisives",
+    "keypasses": "Passes clés",
+    "crossescompleted": "Centres réussis",
+    "minutesplayed": "Minutes jouées"
+  }
+} 

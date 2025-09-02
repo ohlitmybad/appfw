@@ -1,0 +1,30 @@
+{
+  "search": {
+    "placeholder2": "Kanat oyuncusu adı girin..."
+  },
+  "radar": {
+    "keyPasses": "Anahtar paslar",
+    "assists": "Asistler",
+    "xgxa": "npxG+xA",
+    "npg": "NPG",
+    "dribbles": "Driblingler",
+    "carries": "Taşıma",
+    "cross": "Ortalar"
+  },
+  "similar": {
+    "to": "Benzer veri"
+  },
+  "header": {
+    "percentiles": "Yüzdelikler",
+    "clickforinfo": "Tam metrik adını görmek için başlığa tıklayın",
+    "percentilesvstop7leagues": "En İyi 7 Lig vs Yüzdelikler",
+    "progressivecarries": "Hücum taşımaları",
+    "dribblescompleted": "Driblingler tamamlandı",
+    "nonpenaltygoals": "Penaltı olmayan goller",
+    "expectedgoalsassists": "Beklenen goller + asistler",
+    "assists": "Asistler",
+    "keypasses": "Anahtar paslar",
+    "crossescompleted": "Ortalar tamamlandı",
+    "minutesplayed": "Oynanan dakikalar"
+  }
+} 
