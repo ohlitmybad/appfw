@@ -1,0 +1,30 @@
+{
+  "search": {
+    "placeholder2": "Introduce nombre de extremo..."
+  },
+  "radar": {
+    "keyPasses": "Pases clave",
+    "assists": "Asistencias",
+    "xgxa": "npxG+xA",
+    "npg": "NPG",
+    "dribbles": "Regates",
+    "carries": "Conducción",
+    "cross": "Centros"
+  },
+  "similar": {
+    "to": "Datos similares a"
+  },
+  "header": {
+    "percentiles": "Percentiles",
+    "clickforinfo": "Clic en encabezado para ver métrica completa",
+    "percentilesvstop7leagues": "Percentiles vs Top 7 Ligas",
+    "progressivecarries": "Conducciones progresivas",
+    "dribblescompleted": "Regates completados",
+    "nonpenaltygoals": "Goles sin penalti",
+    "expectedgoalsassists": "Goles esperados + asistencias",
+    "assists": "Asistencias",
+    "keypasses": "Pases clave",
+    "crossescompleted": "Centros completados",
+    "minutesplayed": "Minutos jugados"
+  }
+} 
